@@ -1,0 +1,11 @@
+Company,SFR,Payload (kg),Launch Cost ($M),Price ($/kg),Funding ($M),Launch Class,Orbit Altitude,Tech Type,Country,HQ Location,Description,Funding_Type,Funding_num,Country_Grouped,LC_Heavy,LC_Medium,LC_Small,LC_Tourism,OA_LEO,OA_Lunar,OA_Suborbital,TT_Balloon,TT_Other,TT_Plane,TT_Rocket,TT_Spaceplane,Funding_Missing
+JP Aerospace,3,0,0.0,0,,,Suborbital,Balloon,United States,"Rancho Cordova, CA",JP Aerospace is a volunteer-based DIY Space Program. Home of PongSat and Airship to Orbit . We invented the better sandbag,Unknown,13.844999999999999,United States,0,0,0,0,0,0,1,1,0,0,0,0,1
+Fenix Space,2,0,0.0,0,,,LEO,"Plane, Rocket",United States,"San Bernardino, CA",Developing a reliable tow-glider launch system,Unknown,13.844999999999999,United States,0,0,0,0,1,0,0,0,0,1,1,0,1
+B2Space,2,150,0.0,0,,Small,LEO,"Balloon, Rocket",United Kingdom,"Bristol, England",Developing a balloon-launched vehicle for smallsat payloads,Unknown,13.844999999999999,United Kingdom,0,0,1,0,1,0,0,1,0,0,1,0,1
+Eutropia,2,25,0.125,5000,,Small,Suborbital,Rocket,Australia,"Melbourne, Victoria",Reusable hybrid rocketry,Unknown,13.844999999999999,Other,0,0,1,0,0,0,1,0,0,0,1,0,1
+Relativity Space,8,1250,10.0,8000,1334.54,"Small, Heavy",LEO,Rocket,United States,"Los Angeles, CA",Designing orbital-class launch vehicles that are autonomously constructed,Private (reported),1334.54,United States,1,0,1,0,1,0,0,0,0,0,1,0,0
+OrbitX,4,200,4.8,24000,0.05,Small,LEO,Rocket,Philippines,Quezon City,Using clean tech to develop a sustainable and cheap rocket called Haribon SLS,Private (reported),0.05,Other,0,0,1,0,1,0,0,0,0,0,1,0,0
+Sea Launch/S7,6,6160,0.0,0,,Medium,GTO,Rocket,Russia,,Integrated launch services for the Zenit Launch Vehicle via a mobile sea platform,Unknown,13.844999999999999,Other,0,1,0,0,0,0,0,0,0,0,1,0,1
+Vogue Aerospace,2,500,2.0,4000,0.10,Small,LEO,Rocket,United States,"Naples, FL",Developing a unique launch vehicle and propulsion system,Private (reported),0.1,United States,0,0,1,0,1,0,0,0,0,0,1,0,0
+Rocketsan,1,100,0.0,0,,Small,LEO,Rocket,Turkey,Ankara,Rocketsan is developing a micro-satellite launch system for the Turkish government,Unknown,13.844999999999999,Other,0,0,1,0,1,0,0,0,0,0,1,0,1
+Merida Aerospace,0,0,0.0,0,,Small,LEO,Rocket,United States,"Tampa, FL",Developing a small launcher,Unknown,13.844999999999999,United States,0,0,1,0,1,0,0,0,0,0,1,0,1

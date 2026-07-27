@@ -1,0 +1,72 @@
+{
+  "sample_size": {
+    "train": 155,
+    "val": 18,
+    "test": 10,
+    "total": 183
+  },
+  "econometric_regression": {
+    "r_squared": 0.2015639466849063,
+    "coefficients": {
+      "Payload (kg)": -3.635443473117309e-05,
+      "Launch Cost ($M)": 0.05099207119730219,
+      "Funding_num": 0.006085499094712417
+    },
+    "p_values": {
+      "Payload (kg)": 0.13369168004635315,
+      "Launch Cost ($M)": 6.989866130485986e-06,
+      "Funding_num": 4.903567205594014e-05
+    }
+  },
+  "category_breakdown": [
+    {
+      "category": "Launch Class: Heavy",
+      "n_companies": 12,
+      "avg_SFR": 4.83,
+      "avg_launch_cost_M": 33.43,
+      "avg_price_per_kg": 2173.17
+    },
+    {
+      "category": "Launch Class: Medium",
+      "n_companies": 22,
+      "avg_SFR": 5.82,
+      "avg_launch_cost_M": 24.3,
+      "avg_price_per_kg": 2531.09
+    },
+    {
+      "category": "Launch Class: Small",
+      "n_companies": 137,
+      "avg_SFR": 3.86,
+      "avg_launch_cost_M": 2.44,
+      "avg_price_per_kg": 8512.61
+    },
+    {
+      "category": "Launch Class: Tourism",
+      "n_companies": 10,
+      "avg_SFR": 4.6,
+      "avg_launch_cost_M": 0.3,
+      "avg_price_per_kg": 403.2
+    },
+    {
+      "category": "Orbit: LEO",
+      "n_companies": 145,
+      "avg_SFR": 3.52,
+      "avg_launch_cost_M": 6.07,
+      "avg_price_per_kg": 8043.6
+    },
+    {
+      "category": "Orbit: Suborbital",
+      "n_companies": 33,
+      "avg_SFR": 4.91,
+      "avg_launch_cost_M": 0.16,
+      "avg_price_per_kg": 1186.24
+    },
+    {
+      "category": "Orbit: Lunar",
+      "n_companies": 1,
+      "avg_SFR": 1.0,
+      "avg_launch_cost_M": 0.05,
+      "avg_price_per_kg": 0.0
+    }
+  ]
+}

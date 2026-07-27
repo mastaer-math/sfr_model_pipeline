@@ -1,0 +1,25 @@
+feature,mean_abs_shap
+Funding_Type_Unknown,1.0500193
+OA_Suborbital,0.43749142
+log_Funding_num,0.38215858
+log_Launch Cost ($M),0.2582971
+LC_Small,0.20731194
+Funding_Type_Public,0.15423015
+log_Payload (kg),0.13997509
+Country_Grouped_United States,0.13401908
+TT_Spaceplane,0.046771616
+log_Price ($/kg),0.041319497
+Country_Grouped_Other,0.03538765
+Country_Grouped_France,0.023990134
+Country_Grouped_India,0.023418587
+LC_Medium,0.013077714
+TT_Balloon,0.00075560075
+Country_Grouped_United Kingdom,0.0
+OA_LEO,0.0
+LC_Tourism,0.0
+LC_Heavy,0.0
+OA_Lunar,0.0
+TT_Other,0.0
+TT_Plane,0.0
+TT_Rocket,0.0
+Funding_Missing,0.0

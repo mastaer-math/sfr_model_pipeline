@@ -1,0 +1,8 @@
+{
+  "recommended_model": "Ridge-Full",
+  "ridge_test_r2": 0.5022962516248264,
+  "xgboost_test_r2": 0.3377746377701437,
+  "ridge_test_rmse": 1.6087446943349657,
+  "xgboost_test_rmse": 1.8556863645549733,
+  "rationale": "Small training set (140 rows) favors the regularized linear model; XGBoost's added flexibility overfit rather than generalized."
+}

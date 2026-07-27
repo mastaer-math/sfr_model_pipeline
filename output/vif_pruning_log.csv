@@ -1,0 +1,6 @@
+step,feature_removed,reason
+1,OA_Lunar,zero variance (no remaining information)
+2,Funding_Type_Public,VIF = inf (exceeds threshold of 5.0)
+3,Funding_Type_Unknown,VIF = 10.99 (exceeds threshold of 5.0)
+4,TT_Rocket,VIF = 10.03 (exceeds threshold of 5.0)
+5,OA_Suborbital,VIF = 7.00 (exceeds threshold of 5.0)
